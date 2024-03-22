@@ -4,7 +4,7 @@ import LilaScreenPart from "./components/organisms/LilaScreenPart";
 import WhiteScreenPart from "./components/organisms/WhiteScreenPart";
 
 function App() {
-  return <div>
+  return <div className="">
     <Header></Header>
     <LilaScreenPart></LilaScreenPart>
     <WhiteScreenPart></WhiteScreenPart>
